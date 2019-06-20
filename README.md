@@ -1,2 +1,3 @@
 # hello-world
 Just another repository.
+Just writing about myself like it says. I've always dabbled with computers, or electronics. Video games are a big hobby of mine, and someday I'd like to make my own game. I never thought I'd enjoy programming when I was younger. I even did a two year IT cert in high school and still never saw the appeal. Now a bit older, and finally checking all this out and its pretty surprising how different it is to my expectations. Its hard, but I enjoy the challenge. Bottom line is I'm in college again, I've got a pile of programming books, a pig, and all the time in the world. Something good has to come out of that I'd hope.
